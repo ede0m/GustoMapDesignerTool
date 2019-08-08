@@ -65,6 +65,7 @@ $(document).ready(function(){
 		
 
 		// some comment
+		// another comment
 
 		//TODO - make tiles and map not draggable
 		
