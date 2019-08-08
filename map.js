@@ -63,6 +63,9 @@ $(document).ready(function(){
 		$('#cols').text(cols);
 		$('#rows').text(rows);
 		
+
+		// some comment
+
 		//TODO - make tiles and map not draggable
 		
 		// color the origin
